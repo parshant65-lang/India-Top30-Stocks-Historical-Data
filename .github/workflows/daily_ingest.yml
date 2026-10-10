@@ -3,7 +3,7 @@ name: Ingest India Top 30 Daily 1m Klines
 on:
   schedule:
     # Monday to Friday at 11:00 UTC (16:30 IST - 1 hour after market close)
-    - cron: '0 11 * * 1-5'
+    - cron: '0 10 * * 1-5'
   workflow_dispatch:
 
 permissions:
