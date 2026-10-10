@@ -18,7 +18,7 @@ COMPANIES = {
     "HINDUNILVR": ("Hindustan Unilever", "HINDUNILVR.NS"),
     "LT": ("Larsen & Toubro", "LT.NS"),
     "BAJFINANCE": ("Bajaj Finance", "BAJFINANCE.NS"),
-    "TATAMOTORS": ("Tata Motors", "TATAMOTORS.NS"),
+    "WIPRO": ("Wipro Limited", "WIPRO.NS"),
     "HCLTECH": ("HCL Technologies", "HCLTECH.NS"),
     "SUNPHARMA": ("Sun Pharma", "SUNPHARMA.NS"),
     "M_M": ("Mahindra & Mahindra", "M&M.NS"),
