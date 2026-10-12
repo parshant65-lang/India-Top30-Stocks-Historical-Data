@@ -30,9 +30,9 @@ India-Top30-Stocks-Historical-Data/
 ## 📊 Dataset Overview
 - **Constituents:** 30 Benchmark Companies (Sensex 30)
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Archived Daily Files:** `210` sessions
-- **Total 1-Minute Candles:** `75,767` candles
-- **Last Ingested:** `2026-10-11 10:23:00 UTC`
+- **Total Archived Daily Files:** `240` sessions
+- **Total 1-Minute Candles:** `86,618` candles
+- **Last Ingested:** `2026-10-12 16:05:47 UTC`
 - **Trading Sessions:** Monday – Friday, 09:15 to 15:30 IST (03:45 to 10:00 UTC)
 
 ---
